@@ -1,4 +1,4 @@
-<h1 align="center">School Web</h1>
+<h1 align="center">School Net</h1>
 
 ![Demo School Web](https://github.com/Karan-21/SchoolNet/blob/master/Demo/SchoolWeb.gif)
 
